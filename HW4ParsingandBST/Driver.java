@@ -11,9 +11,9 @@ Description: This file is used to test the functions for the Binary Search Tree
 
 //I would recommend to try it one at a time to see the results of each function
 
-public class Driver{
-    public static void main(String[] args) {
-       ParsingandBST tree = new ParsingandBST();
+//public class Driver{
+    //public static void main(String[] args) {
+       //ParsingandBST tree = new ParsingandBST();
 
        /*//Inserting elements into the tree
        tree.insertion(tree.root, 10);
@@ -38,5 +38,5 @@ public class Driver{
        /*//Prints the tree in pre order
        tree.preorder(tree.root);*/
 
-    }
-}
+    //}
+//}
